@@ -1,7 +1,8 @@
 # Awesome
 
 > A curated list of awesome lists
-
+## Web Performance
+- [Awesome-WPO](https://github.com/davidsonfellipe/awesome-wpo)
 
 ## Platforms
 
